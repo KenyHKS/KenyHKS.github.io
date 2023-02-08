@@ -6,3 +6,5 @@ This tutorial focus mainly on GitHub as its remote.
 This repository is built step by step in the tutorial.
 
 Agora no GitHub
+
+Uma nova linha qualquer.
